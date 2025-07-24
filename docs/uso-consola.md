@@ -26,3 +26,5 @@ log
 commit -m
 add
 status
+
+.

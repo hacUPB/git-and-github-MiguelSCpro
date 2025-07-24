@@ -1,8 +1,74 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
+el repositorio contiene carpetas y guarda el historial de todo lo que hagamos
+
+Clonar el repositorio
+Desde la consola, ve a la carpeta donde quieres guardar el proyecto y ejecuta:
+
+bash
+Copiar código
+git clone https://github.com/usuario/nombre-del-repo.git
+🔁 Reemplaza usuario/nombre-del-repo con la URL real del repositorio.
+
+Esto descargará todo el contenido y creará una nueva carpeta con el mismo nombre del proyecto.
+
+📁 2. Entrar al proyecto
+bash
+Copiar código
+cd nombre-del-repo
+🐍 3. Crear y activar un entorno virtual (opcional pero recomendable)
+Crear entorno:
+bash
+Copiar código
+python -m venv venv
+Activar entorno:
+En Windows:
+
+bash
+Copiar código
+venv\Scripts\activate
+En macOS/Linux:
+
+bash
+Copiar código
+source venv/bin/activate
+📦 4. Instalar dependencias del proyecto
+Si el repositorio tiene un archivo requirements.txt, ejecuta:
+
+bash
+Copiar código
+pip install -r requirements.txt
+Esto instalará todas las bibliotecas necesarias para que el proyecto funcione.
+
+🚀 5. Ejecutar el proyecto
+Dependerá del proyecto, pero normalmente es:
+
+bash
+Copiar código
+python main.py
+O si tiene otro archivo principal, reemplaza main.py con el nombre adecuado.
+
+🧾 Resumen rápido de comandos
+bash
+Copiar código
+git clone https://github.com/usuario/nombre-del-repo.git
+cd nombre-del-repo
+python -m venv venv
+# Activar entorno virtual:
+# Windows: venv\Scripts\activate
+# Linux/Mac: source venv/bin/activate
+pip install -r requirements.txt
+python main.py
+
+|Archivo | Descripción |
+|--------|-------------|
+| [repositorio_local.md](docs/repositorio_local.md)   | Cómo crear y manejar un repositorio local con Git |
+| [repositorio_remoto.md](docs/repositorio_remoto.md) | Cómo conectar y sincronizar con un repositorio remoto en GitHub |
+| [uso_consola.md](docs/uso_consola.md)               | Comandos básicos para navegar y crear archivos desde la consola |
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: miguel angel ibarra orozco
+Id.: 000571603
 ---
 # Evaluación
 
