@@ -60,6 +60,8 @@ git pull
 🔁 Resumen del flujo completo
 bash
 Copiar código
+.
+.
 # Ya dentro de tu carpeta del proyecto
 git init
 git add .
