@@ -72,3 +72,11 @@ git remote add origin https://github.com/tuusuario/mi_proyecto.git
 
 # Sube todo al repositorio remoto
 git push -u origin main
+.
+.
+.
+..
+.
+.
+.
+
